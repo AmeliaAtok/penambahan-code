@@ -1,2 +1,3 @@
 git pull: fungsi;menarik dan mengunduh(dowload)pembaharuan code terbari dari repository github ke komputer kamu, lalu langsung menggabungkannya ke kodingan lokal.
 git clone: Fungsi; Menggandakan/mendownload seluruh repository dari GitHub ke komputer kamu untuk pertama kalinya. Perintah ini otomatis membuat folder, menjalankan git init, dan menyambungkan remote ke GitHub.
+git branch:Fungsi; Mengelola cabang (branch) dalam kodingan. Digunakan untuk melihat daftar branch, membuat branch baru, atau mengganti nama branch yang sedang aktif (misalnya mengubah dari master ke main).
