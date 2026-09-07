@@ -1,1 +1,2 @@
-git pull: gungsi;menarik dan mengunduh(dowload)pembaharuan code terbari dari repository github
+git pull: fungsi;menarik dan mengunduh(dowload)pembaharuan code terbari dari repository github ke komputer kamu, lalu langsung menggabungkannya ke kodingan lokal.
+git clone: Fungsi; Menggandakan/mendownload seluruh repository dari GitHub ke komputer kamu untuk pertama kalinya. Perintah ini otomatis membuat folder, menjalankan git init, dan menyambungkan remote ke GitHub.
